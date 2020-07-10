@@ -8,5 +8,5 @@ Resizing MNIST to desired H x W, for desired number of training  and test exampl
         numXtest = number of testing samples(any value <=10000)
      
     Outputs
-        Xtrain/x_in***.txt files, to drive input layer, h*w driver files, each with numXtrain bit sequences
-        XTest/x_in***.txt files, to drive input layer, h*w driver files, each with numXtest bit sequences
+        Xtrain/x_in***.txt files, to drive input layer, #h*w driver files, each with numXtrain bit sequences
+        XTest/x_in***.txt files, to drive input layer, #h*w driver files, each with numXtest bit sequences
